@@ -1,0 +1,8 @@
+.vscode
+.DS_Store
+.git
+bin/**
+pkg/**
+src/github.com/**
+src/golang.org/**
+src/sourcegraph.com/**
